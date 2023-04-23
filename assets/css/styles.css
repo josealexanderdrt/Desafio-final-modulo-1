@@ -5,9 +5,9 @@ body {
 
   .img-fluid { height: 50px;}
 
-  /* Hero Section */
+  /* Hello Section */
   
-  #Hero-Section {
+  #Hello-Section {
     background-image: url("../img/Foto_pro.jpg");
     background-repeat: no-repeat;
     background-size:contain ;
